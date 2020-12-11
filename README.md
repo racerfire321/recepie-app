@@ -12,7 +12,7 @@ This project is built with API to make food recepie search.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://food-recepie-123.netlify.app/)
 
 ## Authors
 
